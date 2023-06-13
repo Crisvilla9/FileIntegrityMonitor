@@ -15,3 +15,10 @@ Created a simple File Integrity Monitor from scratch using PowerShell. The inten
 <h2>Compliance</h2>
 
 - <b>The tool can help organizations to comply with regulatory requirements by ensuring that all changes made to files and directories are logged and audited.</b>
+
+
+<p align="center">
+Flow Chart: <br/>
+<img src="https://i.imgur.com/ZmKNd7b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
