@@ -2,7 +2,9 @@
 
 
 <h2>Description</h2>
-Created a simple File Integrity Monitor from scratch using PowerShell. I wanted to showcase my skills in powershell combined with the integrity portion of the CIA traid. A very simple project hoping to demonstrate my understanding in Integrity and how it can be used in Information Security to safeguard information.  (A File Integrity Monitor tool is a security tool designed to monitor and detect any unauthorized changes made to files and directories on a Windows operating system. It uses PowerShell scripting language to monitor and detect any changes made to files and directories.) 
+Created a simple File Integrity Monitor from scratch using PowerShell. I wanted to showcase my skills in powershell combined with the integrity portion of the CIA traid. A very simple project hoping to demonstrate my understanding in Integrity and how it can be used in Information Security to safeguard information. Exposure to PowerSHell, Hashing Algorithms (SHA-512) and a little bit of Automation. 
+
+(A File Integrity Monitor tool is a security tool designed to monitor and detect any unauthorized changes made to files and directories on a Windows operating system. It uses PowerShell scripting language to monitor and detect any changes made to files and directories.) 
 <br />
 
 
